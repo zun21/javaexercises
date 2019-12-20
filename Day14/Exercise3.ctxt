@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Exercise3
+comment1.params=
+comment1.target=void\ firstName()
+comment2.params=
+comment2.target=void\ lastName()
+comment3.params=
+comment3.target=void\ fullName()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
