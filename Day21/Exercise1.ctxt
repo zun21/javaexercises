@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Exercise1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Exercise1\ from\ day21\ here.\r\n\r\n\ @author\ (Pan\ Zun)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=n
+comment1.target=void\ happynewyear(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ex6Buzz
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Exercise6\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=blimp
+comment1.target=void\ baffle(java.lang.String)
+comment2.params=quince\ flag
+comment2.target=void\ zippo(java.lang.String,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
